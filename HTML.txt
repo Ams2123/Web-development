@@ -1,0 +1,11 @@
+<html>...</html> → add !DOCTYPE to render it using latest version of html.
+
+<hn> name </hn> 
+
+<p>...</p>
+
+<ul>...</ul> 
+
+<ol>...</ol>
+
+<link></link>
