@@ -17,7 +17,8 @@
 ## Backbone
 
  1. Markup lang → defines the structure and hierarchy of the webpage
- 2. 
+ 2. Css → for styling the webpage
+ 3. Javascript → for backend programming
 
 ## Ends of web developement
 
